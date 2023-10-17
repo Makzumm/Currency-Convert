@@ -19,9 +19,7 @@
   },
   "dependencies": {
     "modern-normalize": "^1.1.0",
-    "axios": "^1.5.1",
-    "@swc/helpers": "*",
-    "regenerator-runtime": "*"
+    "axios": "^1.5.1"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",

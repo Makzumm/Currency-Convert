@@ -1,5 +1,5 @@
-import fetchCurrency from "./js/request.js";
 import { refs } from "./js/vars.js";
+import fetchCurrency from "./js/request.js";
 
 let currencyData;
 
