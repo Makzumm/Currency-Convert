@@ -2,14 +2,14 @@
   "name": "y",
   "version": "2.0.0",
   "description": "**Read in other languages: [Polski](README.pl.md).**",
-  "homepage": "https://github.com/Makzumm/currency-convert",
+  "homepage": "https://github.com/makzumm/currency-convert",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /currency-convert/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Makzumm/сurrency-сonvert"
+    "url": "git+https://github.com/makzumm/сurrency-сonvert"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
